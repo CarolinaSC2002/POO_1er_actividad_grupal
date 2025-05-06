@@ -8,7 +8,7 @@
 | Nombre           | Correo Electrónico         | Usuario GitHub  |
 |------------------|----------------------------|-----------------|
 | [Gilary Carolina Sierra Céspedes] | [gisierrac@unal.edu.co]       | [CarolinaSC2002]  |
-| [Leidy Vanessa Villacob Jiménez] | [lvillacob@unal.edu.co]       | [@GitHubUser2]  |
+| [Leidy Vanessa Villacob Jiménez] | [lvillacob@unal.edu.co]       | [leidyvillacob]  |
 
 **Grupo:** 3 (Remoto)
 
