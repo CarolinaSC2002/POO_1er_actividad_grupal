@@ -1,2 +1,14 @@
-# POO_1er_actividad_grupal
-En la actividad de Programación Orientada a Objetos de la Universidad Nacional de Colombia, se realizaron los ejercicios 2.1 a 2.5 del libro Ejercicios de Programación Orientada a Objetos con Java y UML de Leonardo Bermón Angarita, implementados en Python.
+# Actividad #2: Programación Orientada a Objetos  
+**Universidad Nacional de Colombia**  
+**Semestre: 2025-01**  
+**Docente: [Walter Hugo Arboleda Mazo]**
+
+## Integrantes
+
+| Nombre           | Correo Electrónico         | Usuario GitHub  |
+|------------------|----------------------------|-----------------|
+| [Gilary Carolina Sierra Céspedes] | [gisierrac@unal.edu.co]       | [CarolinaSC2002]  |
+| [Leidy Vanessa Villacob Jiménez] | [lvillacob@unal.edu.co]       | [@GitHubUser2]  |
+
+**Grupo:** 3 (Remoto)
+
